@@ -10,3 +10,5 @@ I learned a lot about game design and how important proper planning is to actual
 was during the lecture for my Intro to Computer Science class since I already knew Java well enough that I didn't need to study or pay much attention. Overall
 my greatest takeaway from this project is that Java Swing sucks to develop on and it is very out of date. I think if I really wanted to I could've made the UI much 
 better looking, however I felt like the time investment was just not worth it especially since Swing is so rarely used by major companies.
+
+DOWNLOAD LINK: https://www.dropbox.com/s/c4wzed83dzqjr28/Rocket-final.rar?dl=0
